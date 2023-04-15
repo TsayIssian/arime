@@ -1,0 +1,2 @@
+# arime
+Chinese_input_method_configuration
