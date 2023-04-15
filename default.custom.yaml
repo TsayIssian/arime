@@ -1,0 +1,10 @@
+customization:
+  distribution_code_name: ""
+  distribution_version: ""
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Apr 13 20:48:07 2023"
+  rime_version: 1.5.3
+patch:
+  schema_list:
+    - {schema: PY_c}
+    - {schema: tiger}

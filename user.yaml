@@ -1,0 +1,10 @@
+var:
+  last_build_time: 1681535124
+  option:
+    ascii_punct: true
+    full_shape: false
+    simplification: false
+  previously_selected_schema: tiger
+  schema_access_time:
+    PY_c: 1681436693
+    tiger: 1681449278

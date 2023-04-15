@@ -1,0 +1,146 @@
+# Rime table
+#@/db_name	PY_c.txt
+#@/db_type	tabledb
+#@/rime_version	1.5.3
+#@/tick	258
+啊	a	3
+吧	ba	5
+版本	ban ben	2
+保护	bao hu	2
+比	bi	2
+不	bu	4
+不变质	bu bian zhi	2
+不骗人	bu pian ren	2
+不信	bu xin	4
+不知道	bu zhi dao	2
+仓颉	cang jie	4
+肏错	cao cuo	2
+程度	cheng du	2
+出	chu	2
+词组	ci zu	2
+错	cuo	6
+打	da	5
+到	dao	2
+的	de	15
+的目标	de mu biao	2
+东西	dong xi	2
+都	dou	3
+多	duo	2
+额	e	4
+发	fa	1
+放	fang	3
+放里面	fang li mian	1
+符号	fu hao	2
+高	gao	2
+个	ge	5
+哈	ha	2
+哈哈	ha ha	3
+哈哈哈	ha ha ha	3
+好	hao	16
+好事	hao shi	2
+很好	hen hao	2
+基围虾	ji wei xia	2
+建委	jian wei	2
+教案	jiao an	1
+教案哈	jiao an ha	4
+教案哈好	jiao an ha hao	1
+进行	jin xing	2
+就	jiu	2
+就是	jiu shi	2
+觉	jue	2
+卡	ka	2
+喀	ka	2
+卡比	ka bi	3
+看	kan	18
+看啊	kan a	1
+看啊卡比	kan a ka bi	1
+可	ke	2
+可谓	ke wei	2
+可以	ke yi	4
+快	kuai	5
+会计	kuai ji	2
+啦	la	5
+来	lai	11
+来看	lai kan	2
+老鼠	lao shu	4
+了	le	3
+里面	li mian	1
+连	lian	2
+练习	lian xi	8
+连续性	lian xu xing	2
+没	mei	3
+没有	mei you	2
+那	na	2
+那块	na kuai	1
+那天	na tian	2
+难打	nan da	2
+南京	nan jing	2
+内	nei	2
+能	neng	2
+你	ni	7
+你卡	ni ka	1
+你卡那块	ni ka na kuai	1
+女	nv	2
+哦	o	2
+疲惫	pi bei	1
+疲惫因	pi bei yin	1
+片	pian	2
+骗你	pian ni	2
+拼音	pin yin	12
+平安	ping an	2
+全	quan	2
+人	ren	6
+上	shang	2
+声调	sheng diao	2
+是	shi	5
+侍寝	shi qin	2
+事情	shi qing	2
+熟读	shu du	2
+数据	shu ju	1
+数据发	shu ju fa	1
+输入	shu ru	2
+输入法	shu ru fa	4
+数字	shu zi	4
+爽	shuang	1
+算了	suan le	2
+他	ta	6
+通用	tong yong	4
+秃头	tu tou	2
+问题	wen ti	2
+文章	wen zhang	2
+我	wo	10
+下载	xia zai	2
+想要	xiang yao	2
+新	xin	3
+性	xing	2
+行	xing	2
+星期	xing qi	2
+学	xue	3
+巽	xun	2
+样	yang	2
+也	ye	4
+也可以	ye ke yi	4
+一	yi	2
+依法	yi fa	2
+一直	yi zhi	2
+因	yin	1
+音调	yin diao	2
+英文	ying wen	2
+用	yong	2
+有什么	you shen me	4
+则可以	ze ke yi	2
+怎么	zen me	6
+炸	zha	2
+这	zhe	2
+着吧	zhe ba	2
+这个	zhe ge	2
+真	zhen	3
+真的	zhen de	7
+真的爽	zhen de shuang	1
+之	zhi	2
+中国	zhong guo	2
+中文	zhong wen	4
+子	zi	8
+自定义	zi ding yi	4
+自己	zi ji	2
+组合	zu he	2
